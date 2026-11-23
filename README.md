@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/header.svg" width="100%" alt="Andrea Fiorletta - Full-Stack Architect & Security Engineer" />
+  <img src="./assets/header.svg?v=2" width="100%" alt="Andrea Fiorletta - Full-Stack Architect & Security Engineer" />
 </div>
 
 <br />
@@ -13,18 +13,19 @@
   </a>
   <img src="https://img.shields.io/badge/CompTIA-Security%2B-111827?style=for-the-badge&logo=comptia&logoColor=34D399" alt="CompTIA Security+" />
   <img src="https://img.shields.io/badge/Master%20Cybersecurity-100%2F100-111827?style=for-the-badge&logo=owasp&logoColor=818CF8" alt="Master in Cybersecurity 100/100" />
+  <img src="https://img.shields.io/badge/Anthropic-AI%20Fluency%20%26%20Claude-111827?style=for-the-badge&logo=anthropic&logoColor=F59E0B" alt="Anthropic Certifications" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="./assets/metrics.svg" width="100%" alt="Engineering Impact & Credentials" />
+  <img src="./assets/metrics.svg?v=2" width="100%" alt="Engineering Impact & Credentials" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="./assets/architecture.svg" width="100%" alt="System Architecture & AI-Native Engineering Workflow" />
+  <img src="./assets/architecture.svg?v=2" width="100%" alt="System Architecture & AI-Native Engineering Workflow" />
 </div>
 
 ---
@@ -46,6 +47,12 @@ export const AndreaFiorletta = {
     knowledgeBase: "Obsidian Technical Vault & Structured Spec-Driven Prompts",
     qualityGates: ["Pest", "Vitest", "PHPStan", "Laravel Pint", "Prettier", "GitHub CI"],
   },
+  certifications: [
+    "Master in Cybersecurity (100/100) — Istituto Volta",
+    "CompTIA Security+",
+    "Anthropic AI Fluency: Framework & Foundations",
+    "Anthropic Claude 101 · Claude Code 101 · Claude Platform 101",
+  ],
   productionHighlights: [
     "Designed multi-tenant SaaS ERP/PIM platform with isolated DB-per-tenant & dynamic landlord switching",
     "Reconciled & migrated 40,000+ product records across 3 enterprise clients via Python/Rust pipelines",
@@ -63,7 +70,7 @@ export const AndreaFiorletta = {
 | :--- | :--- |
 | **Multi-Tenant SaaS & Backend** | DDD-lite Laravel 13 platforms with dedicated relational databases per tenant, dynamic landlord switching, async job queues, and resilient REST/GraphQL integrations (Shopify, Google APIs) with rate-limit handling |
 | **Modern Reactive Frontend** | High-craft Angular 21 & TypeScript interfaces using Zoneless change detection, `@ngrx/signals`, responsive tablet/mobile ergonomics, and strict visual polish |
-| **Security & Hardening** | Defense-in-depth aligned with OWASP guidelines, SQLi/XSS mitigation, OAuth 2.0 / JWT / Sanctum authentication, and hard cross-tenant data boundaries (Master in Cybersecurity 100/100, CompTIA Security+) |
+| **Security & Hardening** | Defense-in-depth aligned with OWASP guidelines, SQLi/XSS mitigation, OAuth 2.0 / JWT / Sanctum authentication, and hard cross-tenant data boundaries |
 | **Applied AI & Data Integrity** | Production RAG pipelines with `pgvector`, multi-provider LLM orchestration, PyTorch/fine-tuning, plus deterministic Python & Rust data reconciliation scripts verified across 40,000+ records |
 | **AI-Native Delivery Workflow** | Multi-agent software engineering combining **Claude Code** and **Google Antigravity**, backed by automated CI gates (`Pest`, `Vitest`, `PHPStan`, `Pint`, `Prettier`) for fast, regression-free shipping |
 
@@ -108,6 +115,17 @@ export const AndreaFiorletta = {
 
 ---
 
+### Certifications & Credentials
+
+| Credential | Issuer | Focus |
+| :--- | :--- | :--- |
+| **Master in Cybersecurity (100/100)** | Istituto Volta | Application & Network Security — Thesis: *Cybersecurity & Industry 4.0* |
+| **CompTIA Security+** | CompTIA | Risk Management, Cryptography, Hardening & Threat Analysis |
+| **AI Fluency: Framework & Foundations** | Anthropic | Applied AI Principles, Evaluation & Responsible Systems Design |
+| **Claude 101 · Claude Code 101 · Claude Platform 101** | Anthropic | Agentic Coding Workflows, Tool Orchestration & API Architecture |
+
+---
+
 ### Open-Source & Engineering Lab
 
 | Project | Stack | Description | Status |
@@ -119,5 +137,5 @@ export const AndreaFiorletta = {
 ---
 
 <div align="center">
-  <img src="./assets/footer.svg" width="100%" alt="EOF - Andrea Fiorletta" />
+  <img src="./assets/footer.svg?v=2" width="100%" alt="EOF - Andrea Fiorletta" />
 </div>
