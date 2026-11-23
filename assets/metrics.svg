@@ -1,0 +1,47 @@
+<svg width="900" height="162" viewBox="0 0 900 162" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    @keyframes softPulse {
+      0%, 100% { opacity: 0.95; }
+      50% { opacity: 0.4; }
+    }
+    .p1 { animation: softPulse 2.4s ease-in-out infinite; }
+    .p2 { animation: softPulse 2.4s ease-in-out 0.8s infinite; }
+    .p3 { animation: softPulse 2.4s ease-in-out 1.6s infinite; }
+  </style>
+
+  
+  <g>
+    <rect x="0.5" y="4.5" width="288" height="153" rx="12" fill="#161b22" stroke="#30363d" stroke-width="1" />
+    <rect x="16" y="4.5" width="72" height="3" rx="1.5" fill="#d97757" />
+    <circle class="p1" cx="268" cy="26" r="4" fill="#d97757" />
+    <text x="20" y="30" font-family="Consolas, Menlo, Monaco, Liberation Mono, Noto Sans Mono, monospace" font-size="10.5" font-weight="bold" fill="#8b949e">SECURITY FOUNDATION</text>
+    <text x="20" y="76" font-family="Segoe UI, -apple-system, BlinkMacSystemFont, Noto Sans, Helvetica, Arial, sans-serif" font-size="34" font-weight="bold" fill="#f0f6fc">100 / 100</text>
+    <text x="20" y="102" font-family="Segoe UI, -apple-system, BlinkMacSystemFont, Noto Sans, Helvetica, Arial, sans-serif" font-size="13.5" font-weight="bold" fill="#f0a98e">Master in Cybersecurity</text>
+    <line x1="20" y1="118" x2="268" y2="118" stroke="#21262d" stroke-width="1" />
+    <text x="20" y="140" font-family="Consolas, Menlo, Monaco, Liberation Mono, Noto Sans Mono, monospace" font-size="10.5" fill="#8b949e">CompTIA Security+ · OWASP · OAuth</text>
+  </g>
+
+  
+  <g>
+    <rect x="306" y="4.5" width="288" height="153" rx="12" fill="#161b22" stroke="#30363d" stroke-width="1" />
+    <rect x="322" y="4.5" width="72" height="3" rx="1.5" fill="#38bdf8" />
+    <circle class="p2" cx="574" cy="26" r="4" fill="#38bdf8" />
+    <text x="326" y="30" font-family="Consolas, Menlo, Monaco, Liberation Mono, Noto Sans Mono, monospace" font-size="10.5" font-weight="bold" fill="#8b949e">DETERMINISTIC SCALE</text>
+    <text x="326" y="76" font-family="Segoe UI, -apple-system, BlinkMacSystemFont, Noto Sans, Helvetica, Arial, sans-serif" font-size="34" font-weight="bold" fill="#f0f6fc">40,000+</text>
+    <text x="326" y="102" font-family="Segoe UI, -apple-system, BlinkMacSystemFont, Noto Sans, Helvetica, Arial, sans-serif" font-size="13.5" font-weight="bold" fill="#7dd3fc">Records Reconciled</text>
+    <line x1="326" y1="118" x2="574" y2="118" stroke="#21262d" stroke-width="1" />
+    <text x="326" y="140" font-family="Consolas, Menlo, Monaco, Liberation Mono, Noto Sans Mono, monospace" font-size="10.5" fill="#8b949e">Python &amp; Rust · 3 Enterprise Clients</text>
+  </g>
+
+  
+  <g>
+    <rect x="611.5" y="4.5" width="288" height="153" rx="12" fill="#161b22" stroke="#30363d" stroke-width="1" />
+    <rect x="627.5" y="4.5" width="72" height="3" rx="1.5" fill="#a371f7" />
+    <circle class="p3" cx="879.5" cy="26" r="4" fill="#a371f7" />
+    <text x="631.5" y="30" font-family="Consolas, Menlo, Monaco, Liberation Mono, Noto Sans Mono, monospace" font-size="10.5" font-weight="bold" fill="#8b949e">AI &amp; ISOLATION</text>
+    <text x="631.5" y="76" font-family="Segoe UI, -apple-system, BlinkMacSystemFont, Noto Sans, Helvetica, Arial, sans-serif" font-size="31" font-weight="bold" fill="#f0f6fc">Multi-Tenant</text>
+    <text x="631.5" y="102" font-family="Segoe UI, -apple-system, BlinkMacSystemFont, Noto Sans, Helvetica, Arial, sans-serif" font-size="13.5" font-weight="bold" fill="#d2a8ff">DB-per-Tenant + RAG</text>
+    <line x1="631.5" y1="118" x2="879.5" y2="118" stroke="#21262d" stroke-width="1" />
+    <text x="631.5" y="140" font-family="Consolas, Menlo, Monaco, Liberation Mono, Noto Sans Mono, monospace" font-size="10.5" fill="#8b949e">pgvector · Anthropic AI Fluency</text>
+  </g>
+</svg>
