@@ -5,7 +5,7 @@
 <br />
 
 <div align="center">
-  <a href="https://github.com/TUO-USERNAME">
+  <a href="https://github.com/ANDREAFIORLETTA-160299">
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3200&pause=1100&color=38BDF8&center=true&vCenter=true&width=720&lines=Building+resilient+AI+systems+%26+strict+multi-tenant+isolation;Exploring+AI+Safety%2C+Red-Teaming+%26+Deterministic+Verification;Python+%E2%80%A2+Rust+%E2%80%A2+TypeScript+%E2%80%A2+PHP+%E2%80%A2+PostgreSQL+(pgvector);CompTIA+Security%2B+%7C+Master+in+Cybersecurity+(100%2F100)" alt="Typing SVG" />
   </a>
 </div>
